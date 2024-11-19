@@ -1,4 +1,4 @@
 name: test2
 title: Test 2 Documentation
-# version: ~
-start_page: 'test2::index'
+version: ~
+start_page: 'pages/index.adoc'
