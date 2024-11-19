@@ -1,3 +1,0 @@
-= Test 2 Documentation
-
-* xref:modules/ROOT/pages/index.adoc[Page 2]
