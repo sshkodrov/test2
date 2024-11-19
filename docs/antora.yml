@@ -2,4 +2,4 @@ name: ROOT
 title: Test 2 Documentation
 version: 'Two'
 nav:
-  - test2::docs/modules/ROOT/pages/
+  - ROOT/pages/
