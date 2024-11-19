@@ -1,6 +1,3 @@
 = Document Title
-Doc Writer <doc@example.com>
-:reproducible:
-:listing-caption: Listing
-:source-highlighter: rouge
-:toc:
+
+Let's pretend that here we have some more important information !
