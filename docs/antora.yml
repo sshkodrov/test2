@@ -1,3 +1,4 @@
 name: ROOT
 title: Test 2 Documentation
-version: 'Page 2'
+nav:
+  - modules/ROOT/pages/nav.adoc
