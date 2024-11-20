@@ -1,0 +1,6 @@
+name: test2
+title: ' Test 2 Documentation '
+version: ~
+start_page: named-module:index.adoc
+nav:
+ - modules/named-module/pages/nav.adoc
